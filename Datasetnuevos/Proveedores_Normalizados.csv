@@ -1,0 +1,15 @@
+IdProveedor,Proveedor,Domicilio,Provincia,IdLocalidad,IdProvincia
+1,Sin Datos,Bereguestein 36,Buenos Aires,6035010002.0,6.0
+2,San Cirano,Alberti 965,Buenos Aires,6119050000.0,6.0
+3,Bell S.A.,Moreno 331,Buenos Aires,6126030000.0,6.0
+4,Rivero Insumos,Pte. Peron 3872,Buenos Aires,6434010006.0,6.0
+5,Laprida Computacion,Avda. Pedro Pereyra 1339,Buenos Aires,6448010000.0,6.0
+6,Importadora Mann Kloss,Lope De Vega 2102,Cordoba,,
+7,Fletes y Logistica,Santa Rosa 1564,Cordoba,14014010000.0,14.0
+8,Sin Datos,Santa Rosa 1564,Cordoba,14014010000.0,14.0
+9,Via Chile Containers,Juan B. Justo 415,Mendoza,,
+10,Full Toner,Cordoba 246,Mendoza,,
+11,Via Chile Containers,Vicealte O Connor 847,Rio Negro,62021060000.0,62.0
+12,Central Rosario SRL,San Martin 4816,Santa Fe,82084270000.0,82.0
+13,María Rivarola,Santiago Del Estero 1020,Tucuman,90084010000.0,90.0
+14,Río Full Net,Belgrano 244,Tucuman,90070030000.0,90.0
